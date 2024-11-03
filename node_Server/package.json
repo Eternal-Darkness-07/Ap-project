@@ -1,0 +1,16 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "this node server for our web site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravi & Saurav",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "socket.io": "^4.6.2",
+    "soket.io": "^0.0.1-security"
+  }
+}
